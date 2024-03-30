@@ -2,6 +2,7 @@ from sklearn.ensemble import RandomForestClassifier
 import joblib
 
 
+# Model class
 class Model():
     def __init__(self):
         pass
